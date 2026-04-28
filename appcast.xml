@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RCVD</title>
+        <item>
+            <title>2026.1.0</title>
+            <pubDate>Tue, 28 Apr 2026 10:00:55 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>2026.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/joshhudnall/RCVD-releases/refs/heads/main/RCVD_2026.1.0_(5).zip" length="4866201" type="application/octet-stream" sparkle:edSignature="wF1Z3tgzVPxztG/RAtYKtrwK6D2qGtH0QOvRaUCmoX+q5qHRmW/IiiMZ2R8fyYZqP4dPij8b7h923cDkSKcBAA=="/>
+        </item>
+    </channel>
+</rss>
